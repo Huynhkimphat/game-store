@@ -36,6 +36,7 @@ A full-stack web app built with NestJS and ReactJS that helps you find and disco
    ```
 2. Install dependencies
    ```sh
+   npm install -g yarn
    yarn install
    ```
     
